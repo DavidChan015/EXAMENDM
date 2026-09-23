@@ -11,8 +11,8 @@ import com.primera.evaluacion.ui.detail.ProductDetailScreen
 import com.primera.evaluacion.ui.detail.ProductDetailViewModel
 import com.primera.evaluacion.ui.login.LoginScreen
 import com.primera.evaluacion.ui.login.LoginViewModel
-import com.primera.evaluacion.ProductListScreen
-import com.primera.evaluacion.ProductListViewModel
+import com.primera.evaluacion.ui.products.ProductListScreen
+import com.primera.evaluacion.ui.products.ProductListViewModel
 
 object AppRoutes {
     const val LOGIN = "login"
